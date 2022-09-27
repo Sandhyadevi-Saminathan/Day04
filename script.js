@@ -6,5 +6,4 @@ request.onload=function(){
 For (var i= 0; i< result.length; i++) 
 {
 Console.log(result[i].flagname);
-}
-};
+}};
